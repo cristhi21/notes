@@ -5,6 +5,11 @@
 is not necessary install gradle in your local machine,
 gladle wrapper can do the project run with the latest compiling version
 
+### Install gradle
+
+```sh
+sdk install gradle 8.2
+```
 ### create new gradle project
 
 ```sh
