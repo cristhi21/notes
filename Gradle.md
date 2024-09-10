@@ -5,7 +5,7 @@
 is not necessary install gradle in your local machine,
 gladle wrapper can do the project run with the latest compiling version
 
-### Install gradle
+### Install gradle with sdkman
 
 ```sh
 sdk install gradle 8.2
@@ -103,3 +103,6 @@ testImplementation -> Para las dependencias requeridas durante la compilacion y 
 ./gradlew test
 # build/reports/tests/test/index.html
 ```
+
+## See three dependencies
+> gradle app:dependencies
